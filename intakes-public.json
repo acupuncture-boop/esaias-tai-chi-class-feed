@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-13T15:44:43.602164+01:00",
+  "timezone": "Europe/London",
+  "interest_form": "1jnzrk",
+  "courses": [
+    {
+      "key": "nov-2026-129",
+      "start_at": "2026-11-04T18:30:00+00:00",
+      "booking_url": "https://booktaichi.com/services/wednesday-evening-tai-chi-new-beginners-7-classes-6-30-7-30pm",
+      "reminder_form": "1kp729",
+      "interest_form": "1jnzrk",
+      "end_date": "2026-12-16",
+      "name": "Wednesday Evening Tai Chi \u2013 New Beginners - 7 Classes (6:30\u20137:30pm)",
+      "price": 80.5,
+      "duration": 3600
+    },
+    {
+      "key": "nov-2026-130",
+      "start_at": "2026-11-07T09:00:00+00:00",
+      "booking_url": "https://booktaichi.com/services/saturday-morning-tai-chi-new-beginners-7-classes-9-00-10-00am",
+      "reminder_form": "3ekrxk",
+      "interest_form": "1jnzrk",
+      "end_date": "2026-12-19",
+      "name": "Saturday Morning Tai Chi \u2013 New Beginners - 7 Classes (9:00\u201310:00am)",
+      "price": 80.5,
+      "duration": 3600
+    }
+  ]
+}
